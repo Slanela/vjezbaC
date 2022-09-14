@@ -1,0 +1,34 @@
+W3SCHOOLS:
+
+	https://www.w3schools.com/c/
+
+- Solidna stranica, podržava uživo primjere (editor za kod je ugrađen u stranicu).
+- Teoretska objašnjenja nisu preopširno obrazložena.
+- Pisana na engleskom, ima podršku za Google translate komplet stranice.
+
+	Poglavlja koja smo prešli do sada (sudeći po ovoj stranici):
+		- Intro
+		- Get Started
+		- Syntax
+		- Output
+		- Comments
+		- Variables
+		- Data Types	
+________________________________________________________________________________________
+
+ZNANJE.ORG:
+
+	https://www.znanje.org/knjige/computer/c/v/c_pj.htm
+
+- Sadrzi teoriju i zadatke na nasem jeziku.
+- Pregledna stranica, teorija opširno objašnjena.
+- Izvor mnogih zadataka koje ćemo preći zajedno.
+	
+	Poglavlja koja smo prešli do sada (sudeći po ovoj stranici):
+		- "7. Teorijska priprema"
+		- "8. Tipovi podataka i varijable"
+		- "15. Formatiranje teksta"		
+		- "16. Tip i ispis podataka (printf naredba & formateri)"
+
+! Redoslijed teoretskog znanja je slabo organizovan unutar stranice !
+________________________________________________________________________________________
