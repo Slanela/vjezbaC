@@ -11,6 +11,7 @@ W3SCHOOLS:
 		- Get Started
 		- Syntax
 		- Output
+		- Input
 		- Comments
 		- Variables
 		- Data Types	
