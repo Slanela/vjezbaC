@@ -14,6 +14,8 @@ W3SCHOOLS:
 		- Comments
 		- Variables
 		- Data Types	
+		- Operators
+		- If ... Else conditions
 ________________________________________________________________________________________
 
 ZNANJE.ORG:
@@ -31,4 +33,14 @@ ZNANJE.ORG:
 		- "16. Tip i ispis podataka (printf naredba & formateri)"
 
 ! Redoslijed teoretskog znanja je slabo organizovan unutar stranice !
+________________________________________________________________________________________
+
+JAVATPOINT.COM:
+
+	Operatori:
+		https://www.javatpoint.com/c-operators
+	
+	Formateri:
+		https://www.tutorialspoint.com/format-specifiers-in-c
+
 ________________________________________________________________________________________
